@@ -25,28 +25,8 @@ Mobile app developer focused on Flutter, clean UI, and fast mobile apps.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zaibappdev&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaibappdev&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zaibappdev&theme=tokyonight" />
-</p>
-
----
-
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=zaibappdev&color=blue)
-
----
-
-### 🎬 Fun GIF  
-<p align="center">
-  <img src="https://media.giphy.com/media/HS7YgXcYl8p6w/giphy.gif" width="480" />
-</p>
 
 ---
 
