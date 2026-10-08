@@ -10,11 +10,11 @@
 
 <br/>
 
-## 👋 About
+## About
 
 I'm **Zaib Ullah**, a **Flutter developer** with 2+ years of experience building clean, scalable and high-performance **Android and iOS apps**.
 
-I focus on maintainable architecture, smooth UI and apps that stay fast as they grow, from Firebase backends and REST APIs to CI/CD pipelines and publishing on the Play Store.
+I focus on maintainable architecture, smooth UI and apps that stay fast as they grow, from Firebase backends and REST APIs to CI/CD pipelines and Play Store publishing.
 
 - 📱 Cross-platform apps with **Flutter and Dart**
 - 🏗️ **Clean Architecture**, MVVM and scalable state management
@@ -24,7 +24,7 @@ I focus on maintainable architecture, smooth UI and apps that stay fast as they 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Mobile** — Flutter · Dart · BLoC · Provider · GetX · GoRouter
 
@@ -38,39 +38,14 @@ I focus on maintainable architecture, smooth UI and apps that stay fast as they 
 
 **Other** — Push Notifications · Unit Testing · Threading (Isolates) · App Publishing
 
-<div align="left">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,postman&theme=dark" alt="Skills and tools" />
-</div>
 
 ---
 
-## 📊 GitHub Stats
+## Let's Work Together
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaibappdev&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaibappdev&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+I'm available for **Flutter app development, Firebase integration, app architecture and Play Store publishing**. Have an idea or a project? Let's talk.
 
----
+<a href="mailto:zaib.appdev@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Get%20in%20touch-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
 
-## 🤝 Let's Work Together
-
-I'm available for **Flutter app development, UI implementation, Firebase integration, app architecture and Play Store publishing**. Have an idea or a project? Let's talk.
-
-<a href="mailto:zaib.appdev@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-zaib.appdev%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
-
----
-
-## 🌐 Connect
-
-<a href="https://linkedin.com/in/zaibappdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/zaibappdev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://x.com/zaibappdev"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://facebook.com/zaibappdevs"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<img src="https://komarev.com/ghpvc/?username=zaibappdev&label=Profile+views&color=0F766E&style=flat-square" alt="Profile views" />
-
-<!--
-Flutter Developer, Dart Developer, Mobile App Developer, Android and iOS App Development, Cross-Platform Apps,
-Firebase, Clean Architecture, BLoC, Provider, GetX, GoRouter, MVVM, REST API, Isar, Hive, GitHub Actions,
-Codemagic, Freelance Flutter Developer
--->
+<br/><br/>
