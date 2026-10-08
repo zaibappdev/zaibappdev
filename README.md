@@ -12,7 +12,7 @@
 
 ## 👋 About
 
-I'm **Zaibullah**, a **Flutter developer** with 2+ years of experience building clean, scalable and high-performance **Android and iOS apps**.
+I'm **Zaib Ullah**, a **Flutter developer** with 2+ years of experience building clean, scalable and high-performance **Android and iOS apps**.
 
 I focus on maintainable architecture, smooth UI and apps that stay fast as they grow, from Firebase backends and REST APIs to CI/CD pipelines and publishing on the Play Store.
 
